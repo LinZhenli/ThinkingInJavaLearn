@@ -23,6 +23,7 @@ public class TestMap {
 		}
 		hashMap.keySet();
 		System.out.println(hashMap.values());
+		System.out.println();
 		
 	}
 	
